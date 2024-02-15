@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #c98b459d;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 25px;
+}
+
+h1, h2, h3 {
+    color: #7518ee;
+}
+
+ul, ol {
+    margin-top: 0;
+    padding-left: 25px;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+p {
+    margin-top: 0;
+}
+
+em {
+    font-style: bold;
+    color: #ec0a61;
+    padding: 25px;
+}
